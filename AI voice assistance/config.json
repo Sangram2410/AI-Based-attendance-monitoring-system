@@ -1,0 +1,28 @@
+{
+    "assistant": {
+        "name": "AI Voice Assistant",
+        "wake_word": "assistant",
+        "language": "en-US",
+        "voice_gender": "female",
+        "speech_rate": 180,
+        "volume": 1.0
+    },
+    "accessibility": {
+        "high_contrast": false,
+        "font_size": 12,
+        "text_to_speech_enabled": true,
+        "voice_feedback_enabled": true,
+        "screen_reader_compatible": true
+    },
+    "commands": {
+        "time": "time",
+        "date": "date",
+        "weather": "weather",
+        "joke": "joke",
+        "search": "search",
+        "open": "open",
+        "help": "help",
+        "stop": "stop",
+        "exit": "exit"
+    }
+}
